@@ -1,38 +1,38 @@
 HELP.md
-target/
-.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
-### Archivos temporales y de entorno ###
-*.log
-.env
 .DS_Store
+.env
+*.log
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+# Java/Maven build
+target/
+build/
+.mvn/
+mvnw
+mvnw.cmd
 
-### IntelliJ IDEA ###
+# IDEs
 .idea/
+.vscode/
 *.iws
 *.iml
 *.ipr
 
-### NetBeans ###
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# NetBeans
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
 
-### VS Code ###
-.vscode/
+# Node (cuando inicies frontend)
+node_modules/
+dist/
