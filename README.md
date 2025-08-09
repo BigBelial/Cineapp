@@ -1,4 +1,4 @@
-# 🎬 CineApp - Vortexbird Assessment 2025
+va# 🎬 CineApp - Vortexbird Assessment 2025
 
 Este proyecto es una aplicación web básica desarrollada como parte de la prueba técnica para el rol de Desarrollador Full Stack en Vortexbird.
 
@@ -29,3 +29,5 @@ Este proyecto es una aplicación web básica desarrollada como parte de la prueb
 
 - Backend en desarrollo (`cine-backend/`)
 - Frontend aún no iniciado (`cine-frontend/`)
+
+Juan Jose Ospina 👨🏽‍💻
